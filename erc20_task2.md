@@ -1,4 +1,4 @@
-# Swisstronik Tesnet Techinal Task 2
+# Swisstronik Tesnet Techinal Task 2 (ERC20 Token Mint)
 
 Testnet : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
