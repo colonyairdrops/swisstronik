@@ -11,7 +11,7 @@ git clone https://github.com/james84218/swisstronik_erc721.git
 ```
 
 ```
-cd swisstronik-erc721-mint-token
+cd swisstronik_erc721
 ```
 
 ### 2. Install Dependency
