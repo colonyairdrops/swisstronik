@@ -11,7 +11,7 @@ git clone https://github.com/james84218/swisstronik_contract.git
 ```
 
 ```
-cd hardhat-deploy-contract
+cd swisstronik_contract
 ```
 
 ### 2. Install Dependency
