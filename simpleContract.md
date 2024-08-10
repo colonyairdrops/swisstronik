@@ -1,6 +1,6 @@
 # Swisstronik Tesnet Techinal Task 1
 
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
+Testnet : [Click](https://www.swisstronik.com/testnet2/dashboard)
 
 ## Steps
 
@@ -56,5 +56,6 @@ npm run set-message
 
 - Open the deployed-adddress.ts (location in utils folder)
 - Copy the address and paste the address in testnet dashboard
-- push this project to your github and paste your repository link in testnet dashboard
+- push this project to your github and paste your repository link in testnet dashboa
+- Push to github guide [click](https://github.com/colonyairdrops/swisstronik/blob/main/uploadGithub.md)
 
