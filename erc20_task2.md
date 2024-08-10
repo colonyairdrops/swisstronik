@@ -11,7 +11,7 @@ git clone https://github.com/james84218/swisstronik_erc20.git
 ```
 
 ```
-cd swisstronik-erc20-mint-token
+cd swisstronik_erc20
 ```
 
 ### 2. Install Dependency
