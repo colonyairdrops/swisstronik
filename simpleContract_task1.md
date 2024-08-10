@@ -1,4 +1,4 @@
-# Swisstronik Tesnet Techinal Task 1
+# Swisstronik Tesnet Techinal Task 1 (Simple Hardhat contract)
 
 Testnet : [Click](https://www.swisstronik.com/testnet2/dashboard)
 
